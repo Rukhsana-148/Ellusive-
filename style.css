@@ -1,0 +1,176 @@
+*{
+    margin:0px 0px;
+    padding:0px 0px;
+    box-sizing:borde-box;
+}
+.container{
+    max-width: 1368px;
+}
+.slider img{
+    width : 100%;
+}
+.top{
+    text-align: center;
+    background: linear-gradient(rgba(31, 29, 29, 0.7), rgba(54, 51, 51, 0.5));
+}
+.top .row{
+    padding-top: 20px;
+}
+.top nav{
+    display: flex;
+}
+.top ul li{
+    display: inline-block;
+    list-style: none;
+    color: white;
+}
+.col-sm-2 i{
+    width: 10px;
+    margin-right: 4px;
+   color: black;
+   height: 10px;
+}
+.logo{
+    padding-left: 20px;
+    color: rgb(70, 67, 67);
+}
+.logo h2{
+    color:rgb(128, 122, 122);
+}
+.header nav{
+    display: flex;
+}
+.header ul li{
+    display: inline-block;
+    list-style: none;
+    margin-right : 10px;
+    font-size: 20px;
+    color:rgb(128, 122, 122);
+   
+}
+.header .row{
+  padding-top:40px;
+  padding-bottom:30px;
+}
+.setting{
+    background-color: rgb(80, 198, 198);
+}
+.setting .row{
+    padding-top:50px;
+    padding-bottom: 30px;
+}
+.setting .col-sm-3{
+    text-align: center;
+    color :  white;
+}
+.setting h4{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    
+}
+.black{
+    background: url('images\ \(2\).jpg') no-repeat center/cover;
+    color : white;
+    text-align :  center;
+}
+.black .row{
+    text-align: center;
+}
+.black h1{
+    text-align: center;
+    font-size :  36px;
+    color : white;
+   padding-bottom: 20px;
+    padding-top: 50px;
+}
+.black .card-body{
+    background-color : black;
+    color :  white;
+    margin-bottom : 70px;
+}
+.black .card-body h3{
+  padding-top: 10px;
+}
+.card-body img{
+    width : 100%;
+}
+.black .card-body p{
+    color:rgb(128, 122, 122);
+    padding-top: 10px;
+}
+.black .card-body span{
+    color : rgb(22, 129, 148);
+    margin-right: 5px;
+}
+.black .card-body i{
+    margin-right: 3px;
+}
+.black .card-body button{
+    margin-top : 20px;
+    width : 150px;
+    height : 50px;
+    border-radius: 25px;
+    border: none;
+    background-color: rgb(61, 126, 104);
+    color : white;
+    text-align: center;
+    align-items: center;
+}
+.laptop .row{
+    padding-top :  60px;
+    padding-bottom: 50px;
+}
+.laptop img{
+   width : 500px;
+   height : 500px;
+   text-align: center;
+   padding: 50px 50px;
+  
+}
+.laptop h1{
+    color: rgb(144, 141, 141);
+    font-weight : bolder;
+
+}
+.laptop p{
+    color :rgb(110, 106, 106);
+}
+.laptop ul li{
+    list-style: none;
+    color :rgb(182, 177, 177);
+}
+.laptop button{
+    margin-right : 40px;
+}
+.view{
+    text-align: center;
+    padding-top: 50px;
+    color :rgb(128, 122, 122);
+   padding-bottom : 70px;
+    background-color: rgb(235, 229, 229);
+}
+.view p{
+    padding-top : 30px;
+    padding-bottom: 40px;
+   
+}
+.strong{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.strong h2{
+    padding-top : 50px;
+}
+.strong p{
+    padding-top : 40px;
+}
+.subscribe{
+    background-color: rgb(80, 198, 198);
+    color :  white;
+    padding-top : 50px;
+    padding-bottom : 50px;
+   text-align: center;
+}
+.bottom img{
+    width : 100%;
+}
